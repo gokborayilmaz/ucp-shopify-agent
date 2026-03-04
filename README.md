@@ -36,8 +36,7 @@ This Example Showcases:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Upsonic/ucp-upsonic-shopify-demo.git
-cd ucp-upsonic-shopify-demo
+git clone https://github.com/gokborayilmaz/ucp-shopify-agent.git
 
 # Create a virtual environment
 uv venv

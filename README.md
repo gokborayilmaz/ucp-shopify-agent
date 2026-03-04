@@ -1,4 +1,4 @@
-# ucp-shopify-agent
+# 🛍🛒 ucp-shopify-agent
 
 This agent intelligently analyzes your shopping intent and searches across 24 connected Shopify stores in parallel. Using a coordinated multi-agent system, it discovers and show the most relevant products,product infos and prices.
 
@@ -64,7 +64,8 @@ streamlit run streamlit_app.py
 
 This will launch a web interface where you can input your queries and see product images and details in a clean, modern layout.
 
-![Shopify Agent UI]()
+![Shopify Agent UI](![photo_2026-03-04_23-29-09](https://github.com/user-attachments/assets/394af8e4-f5ce-459a-90b0-5368854cb66e)
+
 
 ## Design Principles
 
